@@ -8,7 +8,7 @@ class Student():
 zy = Student()
 
 class PythonStundet():
-    name  = None
+    name = None
     age = None
     sex = None
     course = "Python"
